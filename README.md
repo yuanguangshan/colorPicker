@@ -6,7 +6,9 @@
 
 ## 📸 预览
 
-*插入应用截图或 GIF 演示*
+![Color Picker Main Interface](pics/main_interface.png)
+![Color Picker Brand Colors](pics/brand_colors.png)
+![Color Picker Export Options](pics/export_options.png)
 
 ## ✨ 功能特性
 
@@ -210,6 +212,13 @@ jsbox://import?url=https://raw.githubusercontent.com/yuanguangshan/colorPicker/m
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+
+## 📁 图片资源
+
+截图和演示图片请放在 `pics` 文件夹中，目前包含：
+- `main_interface.png` - 主界面截图
+- `brand_colors.png` - 品牌色板截图
+- `export_options.png` - 导出选项截图
 
 ## 🙏 致谢
 
