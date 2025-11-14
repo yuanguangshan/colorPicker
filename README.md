@@ -6,10 +6,10 @@
 
 ## 📸 预览
 
-![Color Picker Screenshot 1](pics/IMG_2025.PNG)
-![Color Picker Screenshot 2](pics/IMG_2026.PNG)
-![Color Picker Screenshot 3](pics/IMG_2027.PNG)
-![Color Picker Screenshot 4](pics/IMG_2028.PNG)
+![Color Picker Screenshot 1](https://raw.githubusercontent.com/yuanguangshan/colorPicker/main/pics/IMG_2025.PNG)
+![Color Picker Screenshot 2](https://raw.githubusercontent.com/yuanguangshan/colorPicker/main/pics/IMG_2026.PNG)
+![Color Picker Screenshot 3](https://raw.githubusercontent.com/yuanguangshan/colorPicker/main/pics/IMG_2027.PNG)
+![Color Picker Screenshot 4](https://raw.githubusercontent.com/yuanguangshan/colorPicker/main/pics/IMG_2028.PNG)
 
 ## ✨ 功能特性
 
