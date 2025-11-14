@@ -114,7 +114,7 @@
 
 #### 方法二：通过链接安装
 ```
-jsbox://import?url=https://raw.githubusercontent.com/yuanguangshan/colorPicker/main/colorPicker.js&name=广山词典-颜色选择器
+jsbox://import?url=https://raw.githubusercontent.com/yuanguangshan/colorPicker/main/colorPicker.js
 ```
 
 ## 📖 使用指南
