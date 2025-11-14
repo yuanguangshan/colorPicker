@@ -2,9 +2,7 @@
 
 [![Platform](https://apps.apple.com/app/jsbox/id1312014438)](https://apps.apple.com/app/jsbox/id1312014438)
 [![License](https://img.shields.io/github/license/yuanguangshan/colorPicker)](LICENSE)
-[![Version](https://img.shields.io/github/v/release/yuanguangshan/colorPicker)](https://github.com/yuanguangshan/colorPicker/releases)
 
-**功能特性** • [安装说明](#安装说明) • [使用指南](#使用指南) • [技术亮点](#技术亮点) • [贡献指南](#贡献指南)
 
 ## 📸 预览
 
