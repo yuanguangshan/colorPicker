@@ -6,9 +6,10 @@
 
 ## 📸 预览
 
-![Color Picker Main Interface](pics/main_interface.png)
-![Color Picker Brand Colors](pics/brand_colors.png)
-![Color Picker Export Options](pics/export_options.png)
+![Color Picker Screenshot 1](pics/IMG_2025.PNG)
+![Color Picker Screenshot 2](pics/IMG_2026.PNG)
+![Color Picker Screenshot 3](pics/IMG_2027.PNG)
+![Color Picker Screenshot 4](pics/IMG_2028.PNG)
 
 ## ✨ 功能特性
 
@@ -216,9 +217,10 @@ jsbox://import?url=https://raw.githubusercontent.com/yuanguangshan/colorPicker/m
 ## 📁 图片资源
 
 截图和演示图片请放在 `pics` 文件夹中，目前包含：
-- `main_interface.png` - 主界面截图
-- `brand_colors.png` - 品牌色板截图
-- `export_options.png` - 导出选项截图
+- `IMG_2025.PNG` - Color Picker 主界面截图
+- `IMG_2026.PNG` - Color Picker 品牌色板展示
+- `IMG_2027.PNG` - Color Picker 色阶生成界面
+- `IMG_2028.PNG` - Color Picker 导出功能界面
 
 ## 🙏 致谢
 
